@@ -46,7 +46,7 @@
         android:layout_marginTop="47dp"
         android:layout_marginBottom="70dp"
         android:backgroundTint="@color/colorAccent"
-        android:text="Forget Password"
+        android:text="Forgot Password"
         android:textColor="@color/colorWhite"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
